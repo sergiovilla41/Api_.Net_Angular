@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\ProductosSLN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{496D3E8B-827A-46D2-8D3A-1FAA6FFBA2A3}|Productos\\Productos.csproj|d:\\.net\\productossln\\productos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496D3E8B-827A-46D2-8D3A-1FAA6FFBA2A3}|Productos\\Productos.csproj|solutionrelative:productos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496D3E8B-827A-46D2-8D3A-1FAA6FFBA2A3}|Productos\\Productos.csproj|d:\\.net\\productossln\\productos\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496D3E8B-827A-46D2-8D3A-1FAA6FFBA2A3}|Productos\\Productos.csproj|solutionrelative:productos\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496D3E8B-827A-46D2-8D3A-1FAA6FFBA2A3}|Productos\\Productos.csproj|d:\\.net\\productossln\\productos\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496D3E8B-827A-46D2-8D3A-1FAA6FFBA2A3}|Productos\\Productos.csproj|solutionrelative:productos\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496D3E8B-827A-46D2-8D3A-1FAA6FFBA2A3}|Productos\\Productos.csproj|d:\\.net\\productossln\\productos\\dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496D3E8B-827A-46D2-8D3A-1FAA6FFBA2A3}|Productos\\Productos.csproj|solutionrelative:productos\\dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496D3E8B-827A-46D2-8D3A-1FAA6FFBA2A3}|Productos\\Productos.csproj|d:\\.net\\productossln\\productos\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496D3E8B-827A-46D2-8D3A-1FAA6FFBA2A3}|Productos\\Productos.csproj|solutionrelative:productos\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496D3E8B-827A-46D2-8D3A-1FAA6FFBA2A3}|Productos\\Productos.csproj|d:\\.net\\productossln\\productos\\dto\\productosalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496D3E8B-827A-46D2-8D3A-1FAA6FFBA2A3}|Productos\\Productos.csproj|solutionrelative:productos\\dto\\productosalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496D3E8B-827A-46D2-8D3A-1FAA6FFBA2A3}|Productos\\Productos.csproj|d:\\.net\\productossln\\productos\\dto\\productosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496D3E8B-827A-46D2-8D3A-1FAA6FFBA2A3}|Productos\\Productos.csproj|solutionrelative:productos\\dto\\productosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\ProductosSLN\\Productos\\Program.cs",
+              "RelativeDocumentMoniker": "Productos\\Program.cs",
+              "ToolTip": "D:\\.NET\\ProductosSLN\\Productos\\Program.cs",
+              "RelativeToolTip": "Productos\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T03:59:57.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\.NET\\ProductosSLN\\Productos\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Productos\\Models\\Categoria.cs",
+              "ToolTip": "D:\\.NET\\ProductosSLN\\Productos\\Models\\Categoria.cs",
+              "RelativeToolTip": "Productos\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:46:31.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "D:\\.NET\\ProductosSLN\\Productos\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "Productos\\Controllers\\CategoriaController.cs",
+              "ToolTip": "D:\\.NET\\ProductosSLN\\Productos\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "Productos\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAIwFsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:45:41.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "D:\\.NET\\ProductosSLN\\Productos\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Productos\\Controllers\\ProductosController.cs",
+              "ToolTip": "D:\\.NET\\ProductosSLN\\Productos\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Productos\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:45:37.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriaDto.cs",
+              "DocumentMoniker": "D:\\.NET\\ProductosSLN\\Productos\\Dto\\CategoriaDto.cs",
+              "RelativeDocumentMoniker": "Productos\\Dto\\CategoriaDto.cs",
+              "ToolTip": "D:\\.NET\\ProductosSLN\\Productos\\Dto\\CategoriaDto.cs",
+              "RelativeToolTip": "Productos\\Dto\\CategoriaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:45:34.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductosAllDto.cs",
+              "DocumentMoniker": "D:\\.NET\\ProductosSLN\\Productos\\Dto\\ProductosAllDto.cs",
+              "RelativeDocumentMoniker": "Productos\\Dto\\ProductosAllDto.cs",
+              "ToolTip": "D:\\.NET\\ProductosSLN\\Productos\\Dto\\ProductosAllDto.cs",
+              "RelativeToolTip": "Productos\\Dto\\ProductosAllDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:45:31.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductosDto.cs",
+              "DocumentMoniker": "D:\\.NET\\ProductosSLN\\Productos\\Dto\\ProductosDto.cs",
+              "RelativeDocumentMoniker": "Productos\\Dto\\ProductosDto.cs",
+              "ToolTip": "D:\\.NET\\ProductosSLN\\Productos\\Dto\\ProductosDto.cs",
+              "RelativeToolTip": "Productos\\Dto\\ProductosDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:45:20.285Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
